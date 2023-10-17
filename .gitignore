@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# MacOS
+**/.DS_Store
+**/.ipynb_checkpoints
+
 # C extensions
 *.so
 
